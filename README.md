@@ -1,2 +1,1 @@
-# m-t750-v5-docs-launch
-M-T750-V5 launch documentation candidate.
+# Launch docs — M-T750-V5\nPrior launch checklist, dated 2025-11-16. Useful operational sequence; old public output-directory guidance is obsolete.
